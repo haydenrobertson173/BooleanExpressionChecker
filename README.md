@@ -40,6 +40,16 @@ It can also be used to generate a truth table for a given boolean expression.
 
 ---
 
+## How to Run
+
+-Compile the program:
+  - javac BooleanExpressionCheck.java HelperFunctions.java
+
+-Run the Program:
+  - java BooleanExpressionCheck
+
+---
+
 ## Author
 
 Hayden Robertson 
