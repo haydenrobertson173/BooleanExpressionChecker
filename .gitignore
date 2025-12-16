@@ -1,0 +1,10 @@
+# compiled java files
+*.class
+
+# VS code workspace files
+*.code-workspace
+# personal documentation
+BooleanExpressionDoc.md
+
+#OS junk
+.DS_Store
